@@ -32,5 +32,6 @@
     "vite": "^2.4.1",
     "@vitejs/plugin-react": "^1.0.7"
   },
-  "pre-commit": "lint"
+  "pre-commit": "lint",
+  "license": "MIT"
 }
